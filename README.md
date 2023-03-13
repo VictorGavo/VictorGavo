@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on my personal website
+- 🌱 I’m currently learning ChatGPT but also increasing the depth of my coding knowledge
+- 👯 I’m looking to collaborate on projects that bring useful AI to more people
+- 🤔 I’m looking for help with being a better human
+- 💬 Ask me about my homebrew fantasy setting for TTRPGs
+- 📫 How to reach me: Discord: Ranger Skip#5921
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I have 2 kids!
