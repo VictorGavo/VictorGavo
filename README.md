@@ -1,20 +1,3 @@
-### Hi there 👋
-
-<!--
-**VictorGavo/VictorGavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Victor Gavojdea
 ## About
 Welcome to my GitHub! I am a full-stack developer with a focus on Python, and I'm interested in exploring the world of AI. On this page, you'll find a collection of my personal projects and contributions to open-source projects.
@@ -22,9 +5,11 @@ Welcome to my GitHub! I am a full-stack developer with a focus on Python, and I'
 ## Projects
 Here are some of the projects I've worked on:
 
-### Project 1: A brief description of the project.
-### Project 2: A brief description of the project.
-### Project 3: A brief description of the project.
+### Random Adventure Generator: A website for creating and storing encounters with image and text for TTRPGs.
+### Project 2: Coming Soon.
+### Project 3: Coming Soon.
+
+## Contributions
 
 ## Skills
 Here are some of the skills I have acquired through my work:
@@ -39,10 +24,10 @@ Here are some of the skills I have acquired through my work:
 ## Interests
 I am interested in exploring the world of AI, including machine learning and deep learning. Some of the things I'm currently studying include:
 
-### Interest 1: A brief description of the topic.
-### Interest 2: A brief description of the topic.
-### Interest 3: A brief description of the topic.
+### How to Be My Best Self: I'm always adding things to my personal development work flow.
+### Cultures of the World: I'm taking inspiration from the cultures of Earth to add verisimilitude to my Game Master experience.
+### Artificial Intelligence: How can we best use a tool like AI to optimize our own lives and create meaningful impact in our lives and communities.
 
 
 ## Contact
-If you'd like to get in touch with me, please feel free to reach out via email or LinkedIn.
+If you'd like to get in touch with me, please feel free to reach out via [email](mailto:victor.gavojdea@gmail.com) or [LinkedIn](https://www.linkedin.com/in/victorgavojdea/).
