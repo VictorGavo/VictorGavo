@@ -7,8 +7,6 @@ Here are some of the projects I've worked on:
 
 ### Random Adventure Generator: 
 A website for creating and storing encounters with image and text for TTRPGs.
-### Project 2: Coming Soon.
-### Project 3: Coming Soon.
 
 ## 🤹‍♂️ Skills
 Here are some of the skills I have acquired through my work:
