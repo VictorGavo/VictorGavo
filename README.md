@@ -5,7 +5,8 @@ Welcome to my GitHub! I am a full-stack developer with a focus on Python, and I'
 ## Projects
 Here are some of the projects I've worked on:
 
-### Random Adventure Generator: A website for creating and storing encounters with image and text for TTRPGs.
+### Random Adventure Generator: 
+A website for creating and storing encounters with image and text for TTRPGs.
 ### Project 2: Coming Soon.
 ### Project 3: Coming Soon.
 
@@ -24,9 +25,12 @@ Here are some of the skills I have acquired through my work:
 ## Interests
 I am interested in exploring the world of AI, including machine learning and deep learning. Some of the things I'm currently studying include:
 
-### How to Be My Best Self: I'm always adding things to my personal development work flow.
-### Cultures of the World: I'm taking inspiration from the cultures of Earth to add verisimilitude to my Game Master experience.
-### Artificial Intelligence: How can we best use a tool like AI to optimize our own lives and create meaningful impact in our lives and communities.
+### How to Be My Best Self: 
+I'm always adding things to my personal development work flow.
+### Cultures of the World: 
+I'm taking inspiration from the cultures of Earth to add verisimilitude to my Game Master experience.
+### Artificial Intelligence: 
+How can we best use a tool like AI to optimize our own lives and create meaningful impact in our lives and communities.
 
 
 ## Contact
